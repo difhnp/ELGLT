@@ -1,0 +1,15 @@
+python ./run_VOT18LT/run_Ours.py
+
+python ./run_VOT18LT/Effectiveness_of_Different_Components/run_T.py
+python ./run_VOT18LT/Effectiveness_of_Different_Components/run_T+R.py
+python ./run_VOT18LT/Effectiveness_of_Different_Components/run_T+V.py
+
+python ./run_VOT18LT/Effectiveness_of_Long_Short-Term_Updated_Verifier/run_T1st.py
+python ./run_VOT18LT/Effectiveness_of_Long_Short-Term_Updated_Verifier/run_T1st+TL.py
+python ./run_VOT18LT/Effectiveness_of_Long_Short-Term_Updated_Verifier/run_T1st+TS.py
+
+python ./run_VOT18LT/Effectiveness_of_different_scale_estimation_methods_and_different_re-detection_methods/run_1st.py
+python ./run_VOT18LT/Effectiveness_of_different_scale_estimation_methods_and_different_re-detection_methods/run_Last.py
+python ./run_VOT18LT/Effectiveness_of_different_scale_estimation_methods_and_different_re-detection_methods/run_Skim.py
+python ./run_VOT18LT/Effectiveness_of_different_scale_estimation_methods_and_different_re-detection_methods/run_Sliding.py
+
