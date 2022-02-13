@@ -2,7 +2,7 @@
 
 Code and results for TPAMI paper: [Effective Local and Global Search for Fast Long-term Tracking](https://github.com/difhnp/ELGLT/tree/main/misc/paper.pdf)
 
-![framework](https://github.com/difhnp/ELGLT/tree/main/misc/framework.png)
+![framework](https://raw.githubusercontent.com/difhnp/ELGLT/main/misc/framework.png)
 
 Our code has been tested on
 - RTX 2080Ti GPU 
